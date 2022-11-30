@@ -94,7 +94,13 @@ Customers or anyone in fact can access the chatbot to interact with it and find 
 - [x] Sprint - 1 <br>
 - [x] Sprint - 2 <br>
 - [x] Sprint - 3 <br>
-- [ ] Sprint - 4 <br>
+- [x] Sprint - 4 <br>
+
+<h3> Final Deliverables </h3>
+
+- [x] Final Coding <br>
+- [x] Final Report <br>
+- [x] Demo Link <br>
 
 
 <br>
